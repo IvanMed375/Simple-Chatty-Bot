@@ -21,6 +21,7 @@ public class SimpleBot {
         }
         end();
     }
+    //comment
 
     static void greet(String assistantName, String birthYear) {
         System.out.println("Hello! My name is " + assistantName + ".");
@@ -63,4 +64,5 @@ public class SimpleBot {
     static void end() {
         System.out.println("Congratulations, have a nice day!"); // Do not change this text
     }
+    //Commment
 }
